@@ -5,4 +5,4 @@ scikit-learn==1.2.2
 numpy==1.23.5
 scipy==1.10.1
 plotly
-pycaret[full]
+pycaret==3.3.2
